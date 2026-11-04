@@ -1,0 +1,75 @@
+print ("Hello World")
+
+print ('Python is Fun')
+
+print ("2 + 2 =, 2 + 2")
+
+print ("'" * 10)
+
+print ("====================================")
+print ("STUDENT INFORMATION")
+print ("====================================")
+
+full_name = "Mikee Renes"
+age = 23
+course = "BSIT"
+year_level = 2
+school = "university of mindanao tagum college"
+
+print ("Name", full_name)
+print ("age", age)
+print ("course", course)
+print ("year", year_level)
+print ("school", school)
+
+print ("================================")
+print ("QUIZ RESULTS")
+print ("====================================")
+
+quiz1 = 85
+quiz2 = 90
+quiz3 = 95
+total_score = 270
+average_score = 90.0 
+
+print ("quuiz1", quiz1)
+print ("quuiz2", quiz2)
+print ("quuiz3", quiz3)
+print ("total_score", total_score)
+print ("average_score", average_score)
+
+
+print ("============================")
+print ("PERSONAL INTRODUCTION")
+print ("==================================")
+
+print ("Hello my Name is", full_name )
+print ("I am:", age, "years old")
+print ("I am currently studying", course)
+print ("my year level is", year_level )
+print ("I study at", school)
+print ("welcome to my first python project")
+
+print ("============================")
+print ("ARITHMETIC OPERATIONS")
+print ("============================")
+
+first_number = 20
+second_number = 5
+addition = 25
+subtraction = 15
+multiplication = 100
+division = 4.0
+
+print ("first_number:", first_number)
+print ("scond_number:", second_number)
+print ("addition;", addition)
+print ("multiplication:", multiplication)
+print ("division:", division)
+
+print ("============================")
+
+
+
+
+
